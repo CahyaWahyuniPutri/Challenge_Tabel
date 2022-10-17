@@ -1,0 +1,22 @@
+table, th, td{
+    border: 1px solid black;
+      text-align: center;
+      width: auto;
+      margin-top: 50px;
+      margin-left: 200px;
+  }
+  th, td{
+      padding: 10px;
+  }
+  .black{
+      background-color: black;
+      color: white;
+  }
+  .green{
+      background-color: green;
+      color: white;
+  }
+  .red{
+      background-color: red;
+      color: white;
+  }
